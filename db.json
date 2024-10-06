@@ -1,0 +1,25 @@
+{
+    "students":[
+        {
+            "id":"1",
+            "name":"Komiljon",
+            "surname":"Shodiyev",
+            "study":"NT"
+        },
+        {
+            "id":"2",
+            "name":"Komiljon",
+            "surname":"Shodiyev",
+            "study":"NT"
+        }
+    ],
+    "teachers":[
+        {
+            "id":"1",
+            "name":"Dilshod",
+            "surname":"Murodov",
+            "job":"Teacher"
+        }
+    ]
+    
+}
